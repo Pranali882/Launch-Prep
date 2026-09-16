@@ -1,7 +1,7 @@
 # EstelMiti Privacy Policy
 
 **Effective date:** [fill in before publishing to Play Console / App Store Connect]
-**Contact:** finbuddy882@gmail.com
+**Contact:** estelmiti882@gmail.com
 
 This policy covers the EstelMiti mobile and web application ("EstelMiti",
 "the app"). It's written to match exactly what the app actually does -
