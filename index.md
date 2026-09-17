@@ -129,4 +129,4 @@ entry you've recorded.
 
 ## Contact
 
-Questions about this policy or how EstelMiti handles data: finbuddy882@gmail.com
+Questions about this policy or how EstelMiti handles data: estelmiti882@gmail.com
