@@ -1,140 +1,60 @@
-# EstelMiti Privacy Policy
 
-**Effective date:** [fill in when you publish this]
-**Contact:** estelmiti882@gmail.com
+EstelMiti Privacy Policy
+Effective date: [DD Month YYYY] Developer: Pranali Sridhar Daram , an independent developer based in Qatar Privacy contact and grievance officer: Pranali, estelmiti882@gmail.com
 
-This policy covers the EstelMiti mobile and web application ("EstelMiti",
-"the app"). It's written to match exactly what the app actually does -
-nothing here is aspirational or boilerplate that doesn't apply.
+EstelMiti is a personal finance calculator and tracker for Android, iPhone and the web, built on one idea: Your financial data belongs on your device, or in a backup you choose to save, not on our servers. This policy describes only what the app actually does.
 
-## The short version
+At a glance
+Your entries never leave your device. Accounts, investments, loans, goals, amounts and notes are stored on your phone (on the web, in your browser). We have no server that holds them and cannot see a single one.
+Your data is never used for advice, marketing or partners. No ads, no promotions, no cross-selling. We do not sell, rent, share or trade data, build profiles, or pass anything to advertisers, data brokers, banks, brokers, insurers or other financial companies. We do not scrape or combine data about you from other apps or websites, or track you across them.
+Only three things can reach us, each set out below: feedback you choose to send, crash reports, and, if you sign in for a paid plan, a sign-in and plan record.
+On your device
+Everything you enter stays with you: entries, holdings, goals, notes, files you import (CSV or Excel), your PIN or fingerprint / Face ID lock, your preferences and the note that you accepted the disclaimer. Backups and reports you export (backup file, PDF, CSV) are created on your device and go only where you choose to save or share them. EstelMiti keeps its data out of your phone's automatic cloud backups.
 
-Everything you type into EstelMiti - your accounts, investments, loans,
-goals, notes - stays on your own device. EstelMiti has no server, no
-account system, and no way to see, store, or transmit your financial
-data. The only thing the app fetches automatically over the internet is
-a *public* foreign-exchange reference rate - data that flows *to* you,
-not personal data flowing *away* from you. Stock and mutual fund prices
-are looked up by you, on the official source's own website, not fetched
-by EstelMiti - see "Third-party services" below for the full picture.
+You are in full control: edit or delete any entry, use Clear all data, or uninstall the app (on the web, clear the site's data). We never hold a copy, so we cannot recover lost data. Keep your own backups.
 
-## What we promise, clearly
+What the app reads
+The app reads a little public information from our data server (hosted by Supabase), such as daily exchange rates for major currencies against the Indian rupee, publicly published rates (such as deposit or savings scheme rates) and a few on/off settings that apply to every user. Values like these are suggestions you can change. Nothing about you or your entries is sent to get them, and the app works fully with values you type yourself.
 
-1. **Your financial data lives on your device.** Everything you track -
-   investments, loans, goals, everything - is stored locally (Hive).
-   EstelMiti has no server that holds it.
-2. **Backup is always your choice, and it stays yours.** We never save a
-   copy of your financial data ourselves. When you back up, you choose
-   where it goes - your own device or your own cloud storage - and you
-   can use it to restore, restart, or move your data privately, from
-   any device, whenever you want.
-3. **No ads, no promotion, no cross-sell - inside the app, ever.**
-   EstelMiti doesn't try to sell you anything: not the investments you're
-   tracking, not "accessories" around them, not a partner product, not
-   a collaboration. If it isn't your own number on your own screen, it
-   isn't in here.
+Like any web server, ours briefly logs technical details of each connection (such as IP address and time) to stay working and secure. Our hosting provider keeps these for a few days, and they are not linked to you.
 
-## What's outside our control
+The app does not fetch stock or fund prices. It may show links to official or other public sources (such as AMFI, NSE, BSE, RBI Retail Direct or NPS Trust) as suggestions only. Whether a link opens depends on your location, network and the site's availability; it opens in your own browser, under that site's own terms and policy. Whether you use a link, a suggested value or your own figure is always your decision.
 
-EstelMiti is distributed through the **Google Play Store** and the
-**Apple App Store**. Each store operator (Google, and Apple
-respectively) has its own standard visibility into things like your
-installs, app crash reports, and basic device information (device
-model, OS version) - that's true of every app on either store,
-governed by that store's own Privacy Policy (Google's or Apple's,
-depending on where you downloaded EstelMiti from), and isn't something
-EstelMiti adds, expands, or controls.
+What can reach us
+When	What it contains	Why	Kept for
+Feedback	Only when you tap Send feedback	The text you type and a random reference number	To read it and improve the app	Up to 12 months
+Crash reports	Only if the app crashes	Error type, where in the app's code it happened, phone model, system and app version, a random install ID	To find and fix bugs	About 90 days
+Sign-in and plan record	Only if you sign in (paid plans)	Sign-in ID, email (or Apple's private relay address), plan, end date, the store's purchase confirmation	To make your plan work on your devices	Until you delete your account
+Crash reports never contain your entries, amounts, names or notes, and are not linked to your sign-in. Feedback reaches our inbox through a form service; please keep personal or financial details out of your message.
 
-## What the app stores, and where
+Sign-in and paid plans
+Signing in is optional and never needed during the free trial. You sign in with Google or Apple, and we never see your password. The record shows only that you have a plan; your financial entries are never part of it, and we cannot see them.
 
-All entries you create (investments, loans, cash accounts, goals,
-income, expenses, and any notes attached to them) are stored locally on
-your device using on-device storage (Hive). This data is never uploaded
-anywhere by EstelMiti. If you set a PIN or enable biometric app-lock,
-that credential is also stored and checked entirely on your device.
-The same applies to a small note that you have read and acknowledged the
-app's disclaimer on first opening - it is a single on-device setting,
-never sent anywhere, and the full disclaimer stays one tap away at the
-top of the Home screen.
+Payments, subscriptions, renewals, cancellations and refunds are handled entirely by Google Play or the Apple App Store, under their terms. We never see your card or bank details.
 
-## Backups are yours, and only yours
+To delete your account, go to More > Account > Delete account, or email estelmiti882@gmail.com from the address you signed in with. This removes your sign-in and plan record and ends the link with Sign in with Apple if you used it. It does not cancel a subscription; do that in Google Play or the App Store.
 
-EstelMiti has an optional "Backup & restore" feature (More → Data). When
-you use it, the app writes a single file containing your entries, which
-you then choose where to save (your own device storage, a cloud drive
-you control, etc. via your device's own share/save options) or where to
-restore from. EstelMiti itself never holds a copy of this backup and
-cannot recover, restore, or transfer your data for you - if a backup
-file is lost, that data is genuinely gone. This is a deliberate
-trade-off for never storing your data on a server we control.
+Who helps run the app
+A few providers run the features above, on our behalf and under their own privacy policies. Their servers may be outside your country, including in the United States.
 
-## Third-party services we use, and why
+Supabase: public data server
+Web3Forms: delivers feedback to our inbox
+Google Firebase: crash reports, sign-in and plan records
+Google Play and Apple App Store: downloads, purchases and subscriptions. Like every app store, they also see standard details such as installs and device type, under their own privacy policies; EstelMiti does not add to or control this.
+Security and permissions
+Everything the app sends or receives travels over an encrypted connection (HTTPS), and each sign-in record can be read only by its own user. Your app lock is checked by your device and never sent to us. On Android the app blocks screenshots; on iPhone it hides the screen in the app switcher. It also warns you if the phone appears rooted or jailbroken, a check that runs on your device and sends nothing. No system is completely secure, so please use a screen lock and keep backups safe.
 
-The only data EstelMiti fetches automatically, from a backend we operate
-(built on Supabase), is a **public foreign-exchange reference rate**
-(USD, GBP, AED and SGD to INR), updated daily. This connection:
-- Sends no personal data, no entries, and no identifying information
-- Is read-only - the app requests a public rate, nothing else
-- Can be skipped entirely - the app is fully usable by entering your
-  own values manually
+The app asks only for internet (for the uses above), fingerprint / Face ID (only if you turn on app lock) and files (only when you back up, restore, import or export).
 
-When you type a stock or fund **name** into the name picker while adding
-an entry, the app sends just those typed letters to the same backend to
-look up matching public instrument names (a public list of names and
-codes). Nothing else goes with it: not your entries, amounts, account
-details, or any identifier, and the search is not linked to you.
+Your choices
+Your entries are always under your control, as described above. Feedback and sign-in are optional, and you can delete your sign-in record in the app at any time. You may also have rights under the law where you live; privacy requests can be sent to the contact below.
 
-For **stock, mutual fund, and other market prices**, EstelMiti does not
-fetch or store anything on your behalf. Instead, the app shows you a
-direct link to the relevant official public source (AMFI, NSE, BSE, RBI
-Retail Direct, NPS Trust), which opens in your device's own browser -
-you read the number there and type it into your own entry, the same as
-looking up a price in a newspaper. The app shows no automatically
-fetched stock or fund prices at all.
+Children
+EstelMiti is meant for adults (18 and over) and is not directed at children. We do not knowingly receive information from children.
 
-EstelMiti also checks a single, non-personal remote setting (via the
-same Supabase backend) that controls whether certain optional features
-are turned on for everyone - this carries no user or device
-information, only a yes/no flag.
+Changes
+If this policy changes, for example because a feature is added, we will update this page and its effective date before that version of the app is released.
 
-We do not share data with, or receive data from, any advertising or
-analytics company, because we don't use any.
+Contact
+estelmiti882@gmail.com is for feedback and privacy matters. We read every message but do not offer individual support. Questions about purchases, refunds or your store account go to Google Play or the Apple App Store.
 
-## Permissions the app may ask for, and why
-
-- **Internet** - to fetch the public exchange rate and instrument-name
-  lookups described above
-- **Biometric / device lock** - only if you choose to enable app-lock;
-  used solely to unlock the app on your own device
-- **File / storage access** - only when you choose to export a backup,
-  import a backup, or import a CSV/Excel file of your own data; the app
-  never accesses your files without you initiating that action
-
-## Children's privacy
-
-EstelMiti is not directed at children and we do not knowingly collect
-data from children, in line with the fact that we do not collect
-personal data from anyone, of any age.
-
-## Your control over your data
-
-Because everything lives on your device, you are always in full
-control: delete any entry inside the app at any time, export a backup
-whenever you choose, or uninstall the app to remove all locally stored
-data. There is no account to delete and no server-side copy to request
-removal of, because none exists.
-
-## Changes to this policy
-
-If EstelMiti's data practices ever change, this policy will be updated
-first, in the same plain terms as above. One specific planned change,
-not part of this launch: if an optional paid tier ships later with
-Google/email sign-in, this section will be updated to say plainly that
-sign-in stores only an email/Google ID and subscription status - never
-your financial data, which stays local either way - and that our
-support team can confirm you're a subscriber but cannot see a single
-entry you've recorded.
-
-## Contact
-
-Questions about this policy or how EstelMiti handles data: estelmiti882@gmail.com
