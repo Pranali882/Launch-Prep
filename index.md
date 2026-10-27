@@ -1,8 +1,8 @@
 
 EstelMiti Privacy Policy
-Effective date: [DD Month YYYY] Developer: Pranali Sridhar Daram , an independent developer based in Qatar Privacy contact and grievance officer: Pranali, estelmiti882@gmail.com
+Effective date: [DD Month YYYY] Developer: Pranali Sridhar Daram, an independent developer based in Qatar Privacy contact and grievance officer: Pranali, estelmiti882@gmail.com
 
-EstelMiti is a personal finance calculator and tracker for Android, iPhone and the web, built on one idea: Your financial data belongs on your device, or in a backup you choose to save, not on our servers. This policy describes only what the app actually does.
+EstelMiti is a personal finance calculator and tracker for Android, iPhone and the web, built on one idea: your financial data belongs on your device, or in a backup you choose to save, not on our servers. This policy describes only what the app actually does.
 
 At a glance
 Your entries never leave your device. Accounts, investments, loans, goals, amounts and notes are stored on your phone (on the web, in your browser). We have no server that holds them and cannot see a single one.
