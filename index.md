@@ -1,6 +1,6 @@
 
 EstelMiti Privacy Policy
-Effective date: [DD Month YYYY] Developer: Pranali Sridhar Daram, an independent developer based in Qatar Privacy contact and grievance officer: Pranali, estelmiti882@gmail.com
+Effective date: 28 October 2026 Developer: Pranali Sridhar Daram, an independent developer based in Qatar Privacy contact and grievance officer: Pranali, estelmiti882@gmail.com
 
 EstelMiti is a personal finance calculator and tracker for Android, iPhone and the web, built on one idea: your financial data belongs on your device, or in a backup you choose to save, not on our servers. This policy describes only what the app actually does.
 
@@ -24,15 +24,15 @@ What can reach us
 When	What it contains	Why	Kept for
 Feedback	Only when you tap Send feedback	The text you type and a random reference number	To read it and improve the app	Up to 12 months
 Crash reports	Only if the app crashes	Error type, where in the app's code it happened, phone model, system and app version, a random install ID	To find and fix bugs	About 90 days
-Sign-in and plan record	Only if you sign in (paid plans)	Sign-in ID, email (or Apple's private relay address), plan, end date, the store's purchase confirmation	To make your plan work on your devices	Until you delete your account
+Sign-in and plan record	Only if you sign in (paid plans)	Sign-in ID, email (or Apple's private relay address), plan, end date	To make your plan work on your devices	Until you delete your account
 Crash reports never contain your entries, amounts, names or notes, and are not linked to your sign-in. Feedback reaches our inbox through a form service; please keep personal or financial details out of your message.
 
 Sign-in and paid plans
-Signing in is optional and never needed during the free trial. You sign in with Google or Apple, and we never see your password. The record shows only that you have a plan; your financial entries are never part of it, and we cannot see them.
+Signing in is optional and never needed during the free trial. It is only needed to use a paid plan on another device or on the web. You sign in with Google or Apple, and we never see your password. The record shows only that you have a plan; your financial entries are never part of it, and we cannot see them.
 
 Payments, subscriptions, renewals, cancellations and refunds are handled entirely by Google Play or the Apple App Store, under their terms. We never see your card or bank details.
 
-To delete your account, go to More > Account > Delete account, or email estelmiti882@gmail.com from the address you signed in with. This removes your sign-in and plan record and ends the link with Sign in with Apple if you used it. It does not cancel a subscription; do that in Google Play or the App Store.
+To delete your account, go to More > Account & plan > Delete account, or email estelmiti882@gmail.com from the address you signed in with. This removes your sign-in and plan record. It does not cancel a subscription; do that in Google Play or the App Store.
 
 Who helps run the app
 A few providers run the features above, on our behalf and under their own privacy policies. Their servers may be outside your country, including in the United States.
